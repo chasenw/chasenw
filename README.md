@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chase Nwamu
 - 👀 I’m a rising sophomore looking for software engineering opportunities
-- 🌱 I’m currently  as swe intern at a healthcare company called Centene
+- 🌱 I’m currently working as swe intern at a healthcare company called Centene
 - 📫 How to reach me ... chasemx2@gmail.com
 
 <!---
